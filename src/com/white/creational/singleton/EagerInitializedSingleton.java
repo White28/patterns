@@ -1,4 +1,4 @@
-package com.white.singleton;
+package com.white.creational.singleton;
 
 /**
  * @author Dmytro Bilyi

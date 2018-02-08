@@ -1,9 +1,9 @@
-package com.white.factory;
+package com.white.creational.abstractfactory;
 
 /**
  * @author Dmytro Bilyi
  *
- * @date Feb 7, 2018
+ * @date Feb 8, 2018
  * 
  */
 public abstract class Computer {

@@ -1,18 +1,18 @@
-package com.white.factory;
+package com.white.creational.abstractfactory;
 
 /**
  * @author Dmytro Bilyi
  *
- * @date Feb 7, 2018
+ * @date Feb 8, 2018
  * 
  */
-public class Server extends Computer {
+public class PC extends Computer {
 
 	private String ram;
 	private String hdd;
 	private String cpu;
 
-	public Server(String ram, String hdd, String cpu) {
+	public PC(String ram, String hdd, String cpu) {
 		this.ram = ram;
 		this.hdd = hdd;
 		this.cpu = cpu;

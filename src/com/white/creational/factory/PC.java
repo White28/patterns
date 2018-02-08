@@ -1,4 +1,4 @@
-package com.white.factory;
+package com.white.creational.factory;
 
 /**
  * @author Dmytro Bilyi
