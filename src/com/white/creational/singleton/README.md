@@ -6,3 +6,4 @@ To implement Singleton pattern, we have different approaches but all of them hav
 - Public static method that returns the instance of the class, this is the global access point for outer world to get the instance of the singleton class.
 
 ### Structure
+![](https://github.com/White28/patterns/blob/master/resources/images/creational/singleton.jpg)
