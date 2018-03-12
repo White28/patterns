@@ -22,7 +22,7 @@ Java Design Patterns are divided into three categories – creational, structura
 - [x] [Composite Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/composite)
 - [x] [Proxy Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/proxy)
 - [x] [Flyweight Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/flyweight)
-- [ ] Facade Pattern
+- [x] [Facade Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/facade)
 - [ ] Bridge Pattern
 - [ ] Decorator Pattern
         
