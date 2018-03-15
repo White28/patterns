@@ -24,7 +24,7 @@ Java Design Patterns are divided into three categories – creational, structura
 - [x] [Flyweight Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/flyweight)
 - [x] [Facade Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/facade)
 - [ ] Bridge Pattern
-- [ ] Decorator Pattern
+- [x] [Decorator Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/decorator)
         
 Behavioral Design Patterns
 - [ ] Template Method Pattern
