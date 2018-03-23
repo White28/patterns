@@ -12,7 +12,7 @@ Java Design Patterns are divided into three categories – creational, structura
 
 [Creational Design Patterns](https://github.com/White28/patterns/tree/master/src/com/white/creational)
 - [x] [Singleton Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/singleton)
-- [x] [actory Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/factory)
+- [x] [Factory Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/factory)
 - [x] [Abstract Factory Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/abstractfactory)
 - [x] [Builder Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/builder)
 - [x] [Prototype Pattern](https://github.com/White28/patterns/tree/master/src/com/white/creational/prototype)
@@ -23,7 +23,7 @@ Java Design Patterns are divided into three categories – creational, structura
 - [x] [Proxy Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/proxy)
 - [x] [Flyweight Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/flyweight)
 - [x] [Facade Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/facade)
-- [ ] Bridge Pattern
+- [x] [Bridge Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/bridge)
 - [x] [Decorator Pattern](https://github.com/White28/patterns/tree/master/src/com/white/structural/decorator)
         
 Behavioral Design Patterns
